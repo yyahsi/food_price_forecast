@@ -1,2 +1,2 @@
 # food_price_forecast
-Predicting prices of 14 grocery items with 6 months data from 122 cities globally
+The goal of this ML project is to predict the prices of common breakfast food items across different cities using economic and geographic data. This matters because food prices affect cost of living, inflation, and consumer purchasing power, so accurate forecasts can help governments, businesses, and consumers make better decisions.
