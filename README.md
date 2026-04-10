@@ -3,7 +3,7 @@ The goal of this ML project is to predict the prices of common breakfast food it
 
 Dataset Source: https://www.kaggle.com/datasets/waddahali/global-grocery-inflation-20252026
 
-This food prices dataset is fairly recent and no ML model is trained on it, only a statiscial review of the data exists.
+This food prices dataset is fairly recent and no ML model is yet trained on it, only a statiscial review of the data exists.
 
 p1/: Data cleaning, exploratory data analysis, and initial insights
 
