@@ -7,6 +7,7 @@ This food prices dataset is fairly recent and no ML model is yet trained on it, 
 
 p1/: Data cleaning, exploratory data analysis, and initial insights
 
+Updated: 
 p2/ Linear and polynomial regression and analysis
 
-p3/ Logistic regression and/or random forest models
+
